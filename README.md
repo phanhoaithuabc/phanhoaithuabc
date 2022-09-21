@@ -8,9 +8,6 @@
 - 📫 How to reach me **phanhoaithuabc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![Youtube Badge](https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white&color=071A2C&link=https://www.youtube.com/channel/UC00LXVSndiYu16eghpphyvA)](https://www.youtube.com/channel/UC00LXVSndiYu16eghpphyvA)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=[https://www.linkedin.com/in/mupezzuol/](https://www.linkedin.com/in/phan-hoai-thu-6ba189182/))](https://www.linkedin.com/in/phan-hoai-thu-6ba189182/)
-<p align="left">
 <a href="https://fb.com/phanhoaithuabc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phanhoaithuabc" height="30" width="40" /></a>
 <a href="https://instagram.com/phanhoaithu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phanhoaithu_" height="30" width="40" /></a>
 </p>
