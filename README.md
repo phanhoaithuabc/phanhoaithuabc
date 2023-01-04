@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phanhoaithuabc&label=Profile%20views&color=0e75b6&style=flat" alt="phanhoaithuabc" /> </p>
 
-- 🌱 I’m currently learning **AWS, Azure, GCP, AI, Data, Python**
+- 🌱 I’m currently in **AWS, GCP, AI, Data, Python**
 
 - 📫 How to reach me **phanhoaithuabc@gmail.com**
 
